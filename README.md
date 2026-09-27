@@ -10,3 +10,5 @@ Features:
 Visit the [website](https://subsurfacelab.muhammadabubakar.com.ng) for more info.
 
 Download the latest release [here](https://github.com/themuhammadabubakar/subsurface-lab-downloads/releases/latest)
+
+<img width="1233" height="678" alt="screenshot-3" src="https://github.com/user-attachments/assets/bc29c02e-4704-4ab3-aff9-c7a03411fb34" />
